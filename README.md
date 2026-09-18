@@ -1,6 +1,6 @@
 # Crear imágenes dinámicas para nuestros repositorios remotos en Github
 
-Web para crear dichas imágenes
+Web para crear imágenes dinámicas y agregar más información a nuestros repositorios
 
 [shields.io](https://shields.io)
 
