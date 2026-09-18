@@ -1,2 +1,8 @@
-# Imagenes-dinamicas-con-Shield.io
-Como crear imágenes dinámicas para nuestros repositorios
+# Crear imágenes dinámicas para nuestros repositorios remotos en Github
+
+Web para crear dichas imágenes
+
+[shields.io](https://shields.io)
+
+<img width="1881" height="886" alt="image" src="https://github.com/user-attachments/assets/99121ef6-1f14-4de0-aebb-67159893677e" />
+
